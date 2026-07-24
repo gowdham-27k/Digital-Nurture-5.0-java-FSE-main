@@ -303,10 +303,6 @@ As I progress through the training, I will continue updating this repository wit
 
 ☕ Java Full Stack Developer | Spring Boot Enthusiast
 
-🔗 **GitHub:** https://github.com/your-username
-
-🔗 **LinkedIn:** https://linkedin.com/in/your-linkedin-profile
-
 ---
 
 ⭐ **If you find this repository helpful, feel free to explore the code and follow my learning journey!**
